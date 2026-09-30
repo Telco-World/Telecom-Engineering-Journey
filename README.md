@@ -11,3 +11,7 @@ My journey in Telecom Engineering, SIP, VoLTE, Python, Network Automation, Cyber
 - Explore Cybersecurity and DevOps
 - Build real-world Telecom Engineering projects
 - Create a professional technical portfolio
+
+## Current Training
+
+Learning Git and GitHub fundamentals using hands-on practice.
